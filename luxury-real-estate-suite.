@@ -1,0 +1,23 @@
+luxury-real-estate-suite/
+├── components/
+│   ├── HeroSection.tsx
+│   ├── ServiceCard.tsx
+│   ├── TestimonialSlider.tsx
+│   ├── Dashboard/
+│   └── ...
+├── pages/
+│   ├── index.tsx
+│   ├── about.tsx
+│   ├── services.tsx
+│   ├── blog.tsx
+│   ├── contact.tsx
+│   └── dashboard.tsx
+├── public/
+│   ├── images/
+│   └── ...
+├── styles/
+│   └── luxury-theme.css
+├── utils/
+│   └── api.ts
+├── package.json
+├── tailwind.config.js
